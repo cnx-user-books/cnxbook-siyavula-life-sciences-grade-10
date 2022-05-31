@@ -1,0 +1,519 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+ <title>2.2.6 Muscles</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m43159</md:content-id>
+  <md:title>2.2.6 Muscles</md:title>
+  <md:abstract/>
+  <md:uuid>a7ed2610-8006-40cb-b92b-7a2fcbdc5858</md:uuid>
+</metadata>
+
+<content>
+  <section id="import-auto-id1709396">
+   <title>
+Muscles
+   </title>
+   <definition id="import-auto-id1637417">
+    <term id="import-auto-id1420217">
+Definition:
+    </term>
+    <meaning id="import-auto-id1774052">
+= Muscle is a
+     <link url="http://en.wikipedia.org/wiki/Muscle_contraction">
+      <emphasis effect="italics">
+contractile
+      </emphasis>
+     </link>
+     <emphasis effect="italics"/>
+     <link url="http://en.wikipedia.org/wiki/Tissue_%28biology%29">
+      <emphasis effect="italics">
+tissue
+      </emphasis>
+     </link>
+type of animals
+    </meaning>
+   </definition>
+   <para id="import-auto-id1820898">
+Khan video: Anatomy of a muscle cell
+   </para>
+   <para id="import-auto-id1673693">
+    <link url="http://www.khanacademy.org/video/anatomy-of-a-muscle-cell?playlist=Biology">
+http://www.khanacademy.org/video/anatomy-of-a-muscle-cell?playlist=Biology
+    </link>
+   </para>
+   <para id="import-auto-id1744192">
+Khan video: Myosin and actin
+   </para>
+   <para id="import-auto-id1609234">
+    <link url="http://www.khanacademy.org/video/myosin-and-actin?playlist=Biology">
+http://www.khanacademy.org/video/myosin-and-actin?playlist=Biology
+    </link>
+   </para>
+   <para id="import-auto-id1635709">
+Khan video: Role of sarcoplasmic reticulum in muscle cell
+   </para>
+   <para id="import-auto-id1672971">
+    <link url="http://www.khanacademy.org/video/role-of-the-sarcoplasmic-reticulum-in-muscle-cells?playlist=Biology">
+http://www.khanacademy.org/video/role-of-the-sarcoplasmic-reticulum-in-muscle-
+cells?playlist=Biology
+    </link>
+   </para>
+   <section id="import-auto-id1600310">
+    <title>
+Three types of muscle
+    </title>
+    <section id="import-auto-id1806738">
+     <title>
+Smooth/ involuntary
+     </title>
+     <list id="import-auto-id1701538" list-type="bulleted">
+      <item>
+not by will- spontaneous
+      </item>
+      <item>
+unconscious routine tasks of the body:
+       <list id="import-auto-id1635697" list-type="bulleted">
+        <item>
+Food moving down the digestive system
+        </item>
+        <item>
+keeping the eyes in focus
+        </item>
+        <item>
+adjusting the diameter of blood vessels
+        </item>
+       </list>
+      </item>
+     </list>
+     <section id="import-auto-id1675862">
+      <title>
+Structure:
+      </title>
+      <list id="import-auto-id1745965" list-type="bulleted">
+       <item>
+        <emphasis effect="bold">
+spindle shaped
+        </emphasis>
+cells with nucleus
+       </item>
+      </list>
+      <figure id="import-auto-id1767964">
+       <media id="import-auto-id1821083" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics3-a642.jpg" height="294" width="370"/>
+       </media>
+       <caption>
+Illustrates the structure of a smooth muscle
+       </caption>
+      </figure>
+     </section>
+     <section id="import-auto-id1820700">
+      <title>
+Functions:
+      </title>
+      <para id="import-auto-id1679732">
+Found in the walls of:
+      </para>
+      <list id="import-auto-id1533601" list-type="bulleted">
+       <item>
+blood vessels
+       </item>
+       <item>
+Uterus
+       </item>
+       <item>
+bladder
+       </item>
+       <item>
+Intestines
+       </item>
+      </list>
+     </section>
+    </section>
+    <section id="import-auto-id561023">
+     <title>
+Cardiac muscle
+     </title>
+     <list id="import-auto-id1702612" list-type="bulleted">
+      <item>
+Responsible for your heart beat (muscle only found in the heart)
+      </item>
+      <item>
+Only found in the walls of the heart
+      </item>
+     </list>
+     <section id="import-auto-id1712046">
+      <title>
+Structure
+      </title>
+      <list id="import-auto-id1709508" list-type="bulleted">
+       <item>
+branched and contains intercalated disks
+       </item>
+       <item>
+Carry message in each cell for heart contraction
+       </item>
+      </list>
+      <figure id="import-auto-id1712435">
+       <media id="import-auto-id483032" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-8604.jpg" height="341" width="435"/>
+       </media>
+       <caption>
+Illustrates the structure of the cardiac muscle
+       </caption>
+      </figure>
+     </section>
+    </section>
+    <section id="import-auto-id1554811">
+     <title>
+Voluntary/skeletal
+     </title>
+     <para id="import-auto-id1601559">
+controlled by will
+     </para>
+     <list id="import-auto-id1607567" list-type="bulleted">
+      <item>
+Running
+      </item>
+      <item>
+Walking
+      </item>
+      <item>
+Skipping
+      </item>
+     </list>
+     <section id="import-auto-id1743558">
+      <title>
+Structure:
+      </title>
+      <list id="import-auto-id1743792" list-type="bulleted">
+       <item>
+The basic units of a muscle are called
+        <emphasis effect="bold">
+myofibrils
+        </emphasis>
+.
+       </item>
+       <item>
+These myofibrils make up the
+        <emphasis effect="bold">
+muscle fibre
+        </emphasis>
+(large muscle cells).
+       </item>
+       <item>
+Numerous muscle fibres (cells) are found in
+        <emphasis effect="bold">
+bundles
+        </emphasis>
+.
+       </item>
+       <item>
+These bundles are surrounded by
+        <emphasis effect="bold">
+perimisium
+        </emphasis>
+        <list id="import-auto-id1677841" list-type="bulleted">
+         <item>
+This is called
+          <emphasis effect="bold">
+fasciculus
+          </emphasis>
+         </item>
+        </list>
+       </item>
+       <item>
+Numerous fasciculi are surrounded by
+        <emphasis effect="bold">
+epimysium
+        </emphasis>
+       </item>
+       <item>
+This forms a
+        <emphasis effect="bold">
+muscle
+        </emphasis>
+       </item>
+      </list>
+      <figure id="import-auto-id1540917">
+       <media id="import-auto-id1713592" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-5597.jpg" height="315" width="414"/>
+       </media>
+       <caption>
+Indicates the differing structural components of the voluntary muscle.
+       </caption>
+      </figure>
+     </section>
+    </section>
+   </section>
+   <section id="import-auto-id1748075">
+    <title>
+Muscle contraction
+    </title>
+    <list id="import-auto-id1775165" list-type="bulleted">
+     <item>
+Myofibrils are responsible for the muscle contraction.
+     </item>
+     <item>
+Each myofibril consists of units called sarcomeres (there are many sarcomeres in
+each myofibril )
+     </item>
+     <item>
+Sarcomeres consist of thin actin filaments and thick myosin filaments.
+     </item>
+     <item>
+When muscle fibres contract these filaments slide across each other.
+     </item>
+     <item>
+The actin filaments shorten, but the length of the myosin filaments do not
+change.
+     </item>
+     <item>
+This causes the sarcomeres shorten,
+      <list id="import-auto-id1674780" list-type="bulleted">
+       <item>
+leading to the whole muscle to shorten
+       </item>
+      </list>
+     </item>
+     <item>
+ATP (energy) is a substance in the muscle fibre that provides energy for the
+contracting actin filament.
+     </item>
+    </list>
+    <para id="import-auto-id1479387">
+IMAGE!!!Details on wish list
+    </para>
+    <para id="import-auto-id1721540">
+Video: Summary of the workings of the muscle
+    </para>
+    <para id="import-auto-id1676082">
+     <link url="http://www.khanacademy.org/video/anatomy-of-a-muscle-cell?playlist=Biology">
+http://www.khanacademy.org/video/anatomy-of-a-muscle-cell?playlist=Biology
+     </link>
+    </para>
+    <para id="import-auto-id1678266">
+     <emphasis effect="bold">
+Muscle Exercise:
+     </emphasis>
+    </para>
+    <table id="import-auto-id1712934" summary="">
+     <tgroup cols="2">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <tbody>
+       <row>
+        <entry>
+         <para id="import-auto-id1712916">
+          <emphasis effect="bold">
+Column A
+          </emphasis>
+         </para>
+        </entry>
+        <entry>
+         <para id="import-auto-id1451069">
+          <emphasis effect="bold">
+Column B
+          </emphasis>
+         </para>
+        </entry>
+       </row>
+       <row>
+        <entry>
+A) Attached to skeleton by tendons
+        </entry>
+        <entry>
+1) Cardiac muscle
+        </entry>
+       </row>
+       <row>
+        <entry>
+B) Seen in bundles
+        </entry>
+        <entry>
+2) Blood vesels
+        </entry>
+       </row>
+       <row>
+        <entry>
+C) They make up muscle fibers
+        </entry>
+        <entry>
+3) Muscles
+        </entry>
+       </row>
+       <row>
+        <entry>
+D) Spindle shaped structure
+        </entry>
+        <entry>
+4) movement
+        </entry>
+       </row>
+       <row>
+        <entry>
+E) Causes the pumping action of the heart.
+        </entry>
+        <entry>
+5) muscle fibres
+        </entry>
+       </row>
+       <row>
+        <entry>
+F) smooth muscles are found here
+        </entry>
+        <entry>
+6) Fasciculus
+        </entry>
+       </row>
+       <row>
+        <entry>
+G) specialized tissue
+        </entry>
+        <entry>
+7) myofibrils
+        </entry>
+       </row>
+       <row>
+        <entry>
+H) contraction and relaxation
+        </entry>
+        <entry>
+8) voluntary muscles
+        </entry>
+       </row>
+       <row>
+        <entry>
+I) bundles surrounded by perimysium
+        </entry>
+        <entry>
+9) epimysium
+        </entry>
+       </row>
+       <row>
+        <entry>
+J) Numerous fasciculi are surrounded by
+        </entry>
+        <entry>
+10) Involuntary muscle
+        </entry>
+       </row>
+      </tbody>
+     </tgroup>
+    </table>
+    <para id="import-auto-id1712486">
+Choose the correct answer for column A from column B (only one correct answer
+per question)
+    </para>
+    <section id="import-auto-id1607814">
+     <title>
+Activity: Classifying Muscle Types
+     </title>
+     <list id="import-auto-id1340779" list-type="bulleted">
+      <item>
+Use the following story to classify the different muscle types. Use a coloured
+pen or highlighter to underline or highlight the actions in the story which
+require the different types of muscles
+      </item>
+      <item>
+Suggested colours to use: Pink = Cardiac Muslces; Blue =Voluntary ; Yellow =
+Involuntary
+      </item>
+      <item>
+Then draw each structure in the space provided
+      </item>
+     </list>
+     <para id="import-auto-id1702591">
+      <emphasis effect="bold">
+Story:
+      </emphasis>
+     </para>
+     <para id="import-auto-id1712924">
+BEEP BEEP BEEP!!!
+     </para>
+     <para id="import-auto-id1712926">
+6 a.m on a Monday morning Tsholo’s alarm goes off.
+     </para>
+     <para id="import-auto-id1712472">
+She jumps out of bed and walks to the toilet to relieve her bladder. Tsholo is
+very excited for the day and skips back to her room to get dressed and pack her
+school bag for the new week. In the kitchen mom has prepared Tsholo’s
+favourite porridge –Mielie Meal *. Tsholo eats het porridge with great
+pleasure. After breakfast, she brushes het teeth and skips to the car where she
+waits for mom to unlock the doors.
+     </para>
+     <para id="import-auto-id1724357">
+At school Tsholo runs to her friends in total excitement to tell them about her
+visit to her grandmother. While chatting she sees Tom - the boy she likes a
+lot! He looks her way and Tsholo’s starts blushing. Her heart rate
+increases and her palms become sweaty.
+     </para>
+     <para id="import-auto-id1724361">
+The bell rings.
+     </para>
+     <para id="import-auto-id1451053">
+Tsholo and her friends walk to class, giggling and talking. Her heart rate
+slowly returns back to normal . The week has begun…
+     </para>
+     <para id="import-auto-id1748494">
+      <emphasis effect="bold">
+Draw and label the three different muscle types
+      </emphasis>
+     </para>
+     <para id="import-auto-id1748498">
+Cardiac:
+     </para>
+     <para id="import-auto-id1660863">
+Voluntary:
+     </para>
+     <para id="import-auto-id1660865">
+Involuntary:
+     </para>
+    </section>
+   </section>
+   <section id="import-auto-id1340776">
+    <title>
+Interesting facts – Skeleton
+    </title>
+    <list id="import-auto-id1748506" list-type="bulleted">
+     <item>
+A baby is born with more bones (360 bones) than an adult (average 206 bones).
+Bones making up the skull and the spine fuse together as the body grows making
+it less.
+     </item>
+     <item>
+The femur/thigh bone is the largest in your body. The femur is approximately one
+quarter of a person’s overall height.
+     </item>
+     <item>
+Strengthen your skeleton by drinking milk and eating leafy greens (such as
+brussels sprouts and kale). They contain calcium which keeps bones healthy and
+strong.
+     </item>
+     <item>
+A broken bone produces many new cells to rebuild the bone. These cells cover
+both ends of the broken part of the bone and close up the break.
+     </item>
+     <item>
+Your bones are alive! In your body bones have their own nerves and blood
+vessels.
+     </item>
+     <item>
+Your bone is 50% water and 50% solid material
+     </item>
+     <item>
+You have 14 bones are in your face.
+     </item>
+     <item>
+There are 8 bones in each of your wrists
+     </item>
+     <item>
+You have 23 bones in each foot ( this includes the ankle)
+     </item>
+     <item>
+Your skull is made up of fused bones which acts like a hard protective helmet
+for your brain.
+     </item>
+    </list>
+   </section>
+  </section>
+ </content>
+</document>

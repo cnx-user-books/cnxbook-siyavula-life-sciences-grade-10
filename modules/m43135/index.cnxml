@@ -1,0 +1,1756 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+ <title>1.3.1 The Cell Cycle and Mitosis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m43135</md:content-id>
+  <md:title>1.3.1 The Cell Cycle and Mitosis</md:title>
+  <md:abstract>The cell cycle and mitosis.</md:abstract>
+  <md:uuid>f0bda395-7b56-4455-a648-2426ff2d5bde</md:uuid>
+</metadata>
+<content>
+  <para id="import-auto-id690300">
+Unit 1.3 Cell Division - Mitosis
+  </para>
+  <para id="import-auto-id1410396">
+The Cell Cycle and Mitosis
+  </para>
+  <para id="import-auto-id1066835">
+Animation on mitosis:
+   <link url="http://www.sumanasinc.com/webcontent/animations/content/mitosis.html">
+    <emphasis effect="underline">
+http://www.sumanasinc.com/webcontent/animations/content/mitosis.html
+    </emphasis>
+   </link>
+  </para>
+  <para id="import-auto-id1228051">
+Khan: Phases of mitosishttp://www.khanacademy.org/video/phases-
+ofmitosis?playlist=Biology
+  </para>
+  <para id="import-auto-id621362">
+Neok12: Mitosis games and videos
+   <link url="http://www.neok12.com/Cell-Division.htm">
+    <emphasis effect="underline">
+http://www.neok12.com/Cell-Division.htm
+    </emphasis>
+   </link>
+  </para>
+  <para id="import-auto-id976367">
+Cell Cycle:http://www.daviddarling.info/encyclopedia/C/cell_cycle.html
+  </para>
+  <para id="import-auto-id1205098">
+Khan: Chromosomes, Chromatids, Chromatin, etc:
+http://www.khanacademy.org/video/chromosomes--chromatids--chromatin--
+tc?playlist=Biology
+  </para>
+  <section id="import-auto-id577994">
+   <title>
+    
+Introduction
+    </title>
+    <para id="import-auto-id1250960">
+The
+     <emphasis effect="bold">
+cell cycle
+     </emphasis>
+is the series of events that takes place in a
+     <link url="http://en.wikipedia.org/wiki/Cell_(biology)">
+      <emphasis effect="underline">
+cell
+      </emphasis>
+     </link>
+leading to its division and duplication (replication). In cells without a
+nucleus (
+     <link url="http://en.wikipedia.org/wiki/Prokaryotic">
+      <emphasis effect="underline">
+prokaryotic
+      </emphasis>
+     </link>
+cells e.g. bacteria), the cell cycle occurs through a process termed
+     <link url="http://en.wikipedia.org/wiki/Binary_fission">
+      <emphasis effect="underline">
+binary fission
+      </emphasis>
+     </link>
+. In cells with a nucleus (
+     <link url="http://en.wikipedia.org/wiki/Eukaryotes">
+      <emphasis effect="underline">
+eukaryotes
+      </emphasis>
+     </link>
+), the cell cycle can be divided in two brief periods:
+     <link url="http://en.wikipedia.org/wiki/Interphase">
+      <emphasis effect="underline">
+interphase
+      </emphasis>
+     </link>
+—during which the cell grows, accumulating nutrients needed for mitosis
+and
+     <link url="http://en.wikipedia.org/wiki/DNA_replication">
+      <emphasis effect="underline">
+duplicating its DNA
+      </emphasis>
+     </link>
+—and the
+     <link url="http://en.wikipedia.org/wiki/Mitosis">
+      <emphasis effect="underline">
+mitosis
+      </emphasis>
+     </link>
+(M) phase, just after which the cell splits itself into two distinct cells,
+often called "daughter cells". The cell-division cycle is a vital process by
+which a single-celled
+     <link url="http://en.wikipedia.org/wiki/Fertilized_egg">
+      <emphasis effect="underline">
+fertilized egg
+      </emphasis>
+     </link>
+develops into a mature organism, as well as the process by which
+     <link url="http://en.wikipedia.org/wiki/Hair">
+      <emphasis effect="underline">
+hair
+      </emphasis>
+     </link>
+,
+     <link url="http://en.wikipedia.org/wiki/Skin">
+      <emphasis effect="underline">
+skin
+      </emphasis>
+     </link>
+,
+     <link url="http://en.wikipedia.org/wiki/Blood_cell">
+      <emphasis effect="underline">
+blood cells
+      </emphasis>
+     </link>
+, some internal organs are renewed and wounds are healed
+    </para>
+    <figure id="import-auto-id1410494">
+     <media id="import-auto-id1291650" alt="">
+      <image mime-type="image/png" src="../../media/graphics1-f928.png" height="219" width="602"/>
+     </media>
+    </figure>
+    <para id="import-auto-id887903">
+Diagram - Cell division.
+    </para>
+   </section>
+   <section id="import-auto-id920849">
+    <title>
+     
+Phases
+     </title>
+     <para id="import-auto-id1450735">
+The cell cycle consists of four distinct phases:
+      <link url="http://en.wikipedia.org/wiki/G1_phase">
+       <emphasis effect="underline">
+G
+       </emphasis>
+      </link>
+      <link url="http://en.wikipedia.org/wiki/G1_phase">
+       <emphasis effect="underline">
+1
+       </emphasis>
+      </link>
+      <link url="http://en.wikipedia.org/wiki/G1_phase">
+       <emphasis effect="underline">
+phase
+       </emphasis>
+      </link>
+,
+      <link url="http://en.wikipedia.org/wiki/S_phase">
+       <emphasis effect="underline">
+S phase
+       </emphasis>
+      </link>
+(synthesis),
+      <link url="http://en.wikipedia.org/wiki/G2_phase">
+       <emphasis effect="underline">
+G
+       </emphasis>
+      </link>
+      <link url="http://en.wikipedia.org/wiki/G2_phase">
+       <emphasis effect="underline">
+2
+       </emphasis>
+      </link>
+      <link url="http://en.wikipedia.org/wiki/G2_phase">
+       <emphasis effect="underline">
+phase
+       </emphasis>
+      </link>
+(collectively known as
+      <link url="http://en.wikipedia.org/wiki/Interphase">
+       <emphasis effect="underline">
+interphase
+       </emphasis>
+      </link>
+) and
+      <link url="http://en.wikipedia.org/wiki/Mitosis">
+       <emphasis effect="underline">
+M phase
+       </emphasis>
+      </link>
+(mitosis). M phase is itself composed of two tightly coupled processes: mitosis,
+in which the cell's
+      <link url="http://en.wikipedia.org/wiki/Chromosomes">
+       <emphasis effect="underline">
+chromosomes
+       </emphasis>
+      </link>
+are divided between the two daughter cells, and
+      <link url="http://en.wikipedia.org/wiki/Cytokinesis">
+       <emphasis effect="underline">
+cytokinesis
+       </emphasis>
+      </link>
+, in which the cell's
+      <link url="http://en.wikipedia.org/wiki/Cytoplasm">
+       <emphasis effect="underline">
+cytoplasm
+       </emphasis>
+      </link>
+divides in half forming two distinct cells.
+     </para>
+     <figure id="import-auto-id992555">
+      <media id="import-auto-id987992" alt="">
+       <image mime-type="image/png" src="../../media/graphics2-07c2.png" height="284" width="278"/>
+      </media>
+     </figure>
+     <para id="import-auto-id1368948">
+Diagram - Schematic of the cell cycle. outer ring: I =
+      <link url="http://en.wikipedia.org/wiki/Interphase">
+       <emphasis effect="underline">
+Interphase
+       </emphasis>
+      </link>
+, M =
+      <link url="http://en.wikipedia.org/wiki/Mitosis">
+       <emphasis effect="underline">
+Mitosis
+       </emphasis>
+      </link>
+; inner ring: M =
+      <link url="http://en.wikipedia.org/wiki/Mitosis">
+       <emphasis effect="underline">
+Mitosis
+       </emphasis>
+      </link>
+, G
+      <sub>
+1
+      </sub>
+=
+      <link url="http://en.wikipedia.org/wiki/G1_phase">
+       <emphasis effect="underline">
+Gap 1
+       </emphasis>
+      </link>
+, G
+      <sub>
+2
+      </sub>
+=
+      <link url="http://en.wikipedia.org/wiki/G2_phase">
+       <emphasis effect="underline">
+Gap 2
+       </emphasis>
+      </link>
+, S =
+      <link url="http://en.wikipedia.org/wiki/S_phase">
+       <emphasis effect="underline">
+Synthesis
+       </emphasis>
+      </link>
+; not in ring: G
+      <sub>
+0
+      </sub>
+=
+      <link url="http://en.wikipedia.org/wiki/G0_phase">
+       <emphasis effect="underline">
+Gap 0/Resting
+       </emphasis>
+      </link>
+.
+      <link target-id="">
+       <emphasis effect="underline">
+[1]
+       </emphasis>
+      </link>
+     </para>
+     <table id="import-auto-id517501" summary="">
+      <tgroup cols="4">
+       <colspec colnum="1" colname="c1"/>
+       <colspec colnum="2" colname="c2"/>
+       <colspec colnum="3" colname="c3"/>
+       <colspec colnum="4" colname="c4"/>
+       <tbody>
+        <row>
+         <entry>
+          <para id="import-auto-id524118">
+           <emphasis effect="bold">
+State
+           </emphasis>
+          </para>
+         </entry>
+         <entry>
+          <para id="import-auto-id1133394">
+           <emphasis effect="bold">
+Phase
+           </emphasis>
+          </para>
+         </entry>
+         <entry>
+          <para id="import-auto-id1141485">
+           <emphasis effect="bold">
+Abbreviation
+           </emphasis>
+          </para>
+         </entry>
+         <entry>
+          <para id="import-auto-id1204708">
+           <emphasis effect="bold">
+Description
+           </emphasis>
+          </para>
+         </entry>
+        </row>
+        <row>
+         <entry>
+quiescent/senescent
+         </entry>
+         <entry>
+          <link url="http://en.wikipedia.org/wiki/G0_phase">
+           <emphasis effect="underline">
+Gap 0
+           </emphasis>
+          </link>
+         </entry>
+         <entry>
+          <emphasis effect="bold">
+G
+          </emphasis>
+          <emphasis effect="bold">
+0
+          </emphasis>
+         </entry>
+         <entry>
+A resting phase where the cell has left the cycle and has stopped dividing.
+         </entry>
+        </row>
+        <row>
+         <entry>
+          <link url="http://en.wikipedia.org/wiki/Interphase">
+           <emphasis effect="underline">
+Interphase
+           </emphasis>
+          </link>
+         </entry>
+         <entry>
+          <link url="http://en.wikipedia.org/wiki/G1_phase">
+           <emphasis effect="underline">
+Gap 1
+           </emphasis>
+          </link>
+         </entry>
+         <entry>
+          <emphasis effect="bold">
+G
+          </emphasis>
+          <emphasis effect="bold">
+1
+          </emphasis>
+         </entry>
+         <entry>
+Cells increase in size in Gap 1. The
+          <link target-id="">
+           <emphasis effect="italics">
+G
+           </emphasis>
+          </link>
+          <link target-id="">
+           <emphasis effect="italics">
+1
+           </emphasis>
+          </link>
+          <link target-id="">
+           <emphasis effect="italics">
+checkpoint
+           </emphasis>
+          </link>
+control mechanism ensures that everything is ready for
+          <link url="http://en.wikipedia.org/wiki/DNA">
+           <emphasis effect="underline">
+DNA
+           </emphasis>
+          </link>
+synthesis.
+         </entry>
+        </row>
+        <row>
+         <entry>
+          </entry>
+          <entry>
+           <link url="http://en.wikipedia.org/wiki/S_phase">
+            <emphasis effect="underline">
+Synthesis
+            </emphasis>
+           </link>
+          </entry>
+          <entry>
+           <para id="import-auto-id988137">
+            <emphasis effect="bold">
+S
+            </emphasis>
+           </para>
+          </entry>
+          <entry>
+           <link url="http://en.wikipedia.org/wiki/DNA_replication">
+            <emphasis effect="underline">
+DNA replication
+            </emphasis>
+           </link>
+occurs during this phase.
+          </entry>
+         </row>
+         <row>
+          <entry>
+           </entry>
+           <entry>
+            <link url="http://en.wikipedia.org/wiki/G2_phase">
+             <emphasis effect="underline">
+Gap 2
+             </emphasis>
+            </link>
+           </entry>
+           <entry>
+            <emphasis effect="bold">
+G
+            </emphasis>
+            <emphasis effect="bold">
+2
+            </emphasis>
+           </entry>
+           <entry>
+During the gap between DNA synthesis and mitosis, the cell will continue to
+grow. The
+            <link target-id="">
+             <emphasis effect="italics">
+G
+             </emphasis>
+            </link>
+            <link target-id="">
+             <emphasis effect="italics">
+2
+             </emphasis>
+            </link>
+            <link target-id="">
+             <emphasis effect="italics">
+checkpoint
+             </emphasis>
+            </link>
+control mechanism ensures that everything is ready to enter the M (mitosis)
+phase and divide.
+           </entry>
+          </row>
+          <row>
+           <entry>
+            <link url="http://en.wikipedia.org/wiki/Cell_division">
+             <emphasis effect="underline">
+Cell division
+             </emphasis>
+            </link>
+           </entry>
+           <entry>
+            <link url="http://en.wikipedia.org/wiki/Mitosis">
+             <emphasis effect="underline">
+Mitosis
+             </emphasis>
+            </link>
+           </entry>
+           <entry>
+            <para id="import-auto-id513859">
+             <emphasis effect="bold">
+M
+             </emphasis>
+            </para>
+           </entry>
+           <entry>
+Cell growth stops at this stage and cellular energy is focused on the orderly
+division into two daughter cells. A checkpoint in the middle of mitosis (
+            <link target-id="">
+             <emphasis effect="italics">
+Metaphase Checkpoint
+             </emphasis>
+            </link>
+) ensures that the cell is ready to complete cell division.
+           </entry>
+          </row>
+         </tbody>
+        </tgroup>
+       </table>
+       <para id="import-auto-id1304554">
+Table – Phases of the cell cycle (the details of the G and S phases are
+not required but are included to give an overview).
+       </para>
+      </section>
+      <section id="import-auto-id1031058">
+       <title>
+        
+Stages of Mitosis
+        </title>
+        <figure id="import-auto-id1205161">
+         <media id="import-auto-id1345594" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-b124.jpg" height="426" width="601"/>
+         </media>
+        </figure>
+        <para id="import-auto-id794264">
+Diagram – Allium (Onion) cells in the different cycle of mitosis.
+        </para>
+        <section id="import-auto-id1375313">
+         <title>
+          
+Interphase
+          </title>
+          <para id="import-auto-id532314">
+The cell spends most of its life in the interphase. During this phase the cell
+grows to its maximum size and performs its normal functions. Many scientists do
+not count interphase as part of mitosis.
+          </para>
+         </section>
+         <section id="import-auto-id1026752">
+          <title>
+           
+Prophase
+           </title>
+           <para id="import-auto-id992553">
+The chromatin (a special protein (actually a nucleoprotein) that chromosomes are
+made of) condenses into chromosomes (human cells have 46 chromosomes – 23
+from your father and 23 from your mother). Each chromosome eventually can be
+seen to consist of two strands or chromatids joined at a central centromere in
+an X shape. The nuclear membrane disappears. The centriole splits and starts to
+move to opposite poles. Spindle threads form between the poles.
+           </para>
+          </section>
+          <section id="import-auto-id1408668">
+           <title>
+            
+Metaphase
+            </title>
+            <para id="import-auto-id1291563">
+Chromosomes lie on the equator of the cell. Each chromosome is attached to the
+spindle microfibers by its centromere. The chromosomes appear in a straight
+line across the middle of the cell.
+            </para>
+            <para id="import-auto-id1368932">
+In the other form of cell division, meiosis, homologous chromosomes line up in
+pairs, side by side.
+            </para>
+           </section>
+           <section id="import-auto-id987447">
+            <title>
+             
+Anaphase
+             </title>
+             <para id="import-auto-id1334769">
+The centromere splits. Each chromosome divides into two sister chromatids. Each
+chromatid is moved to opposite poles of the cell by the shortening of the
+spindle fibres.
+             </para>
+             <para id="import-auto-id1253434">
+Chromatids (now called
+              <emphasis effect="bold">
+daughter chromosomes
+              </emphasis>
+) gather at opposite poles of the cell.
+             </para>
+            </section>
+            <section id="import-auto-id1334765">
+             <title>
+              
+Telophase
+              </title>
+              <para id="import-auto-id1200458">
+A nuclear membrane forms around each of the daughter chromosomes that have
+gathered at the poles. The daughter chromosomes uncoil to form diffuse
+chromatin. The cytoplasm then divides during a process called
+               <emphasis effect="bold">
+cytokinesis
+               </emphasis>
+. Note –cytokinesis is not a stage of mitosis but the process of the
+cytoplasm splitting into two. There are now two genetically identical daughter
+cells. They are identical to the parent cell and to each other. In an animal
+cell an
+               <emphasis effect="bold">
+invagination
+               </emphasis>
+or infolding will divide the cytoplasm. In a plant cell a
+               <emphasis effect="bold">
+cross wall
+               </emphasis>
+divides the cytoplasm.
+              </para>
+              <para id="import-auto-id1376262">
+               <emphasis effect="bold">
+Animation – Cell cycle and stages of mitosis –
+               </emphasis>
+              </para>
+              <para id="import-auto-id1358479">
+               <link url="http://highered.mcgraw-hill.com/sites/0072495855/student_view0/chapter2/animation__how_the_cell_cycle_works.html">
+                <emphasis effect="underline">
+http://highered.mcgraw-hill.com/sites/0072495855/student_view0/chapter2/animatio
+n__how_the_cell_cycle_works.html
+                </emphasis>
+               </link>
+              </para>
+             </section>
+             <section id="import-auto-id522065">
+              <title>
+               
+Summary of mitosis
+               </title>
+               <para id="import-auto-id615575">
+Two
+                <emphasis effect="bold">
+identical
+                </emphasis>
+daughter cells are formed from the mother cell.
+               </para>
+               <para id="import-auto-id1066622">
+Each daughter cell has the same number of chromosomes as the mother cell.
+               </para>
+               <para id="import-auto-id1204996">
+Each daughter cell will grow to its maximum size.
+               </para>
+              </section>
+             </section>
+             <section id="import-auto-id775956">
+              <title>
+               
+Biological importance of mitosis
+               </title>
+               <para id="import-auto-id1133483">
+Growth – Living tissue grows by mitosis e.g. bone and skin.
+               </para>
+               <para id="import-auto-id1340252">
+Repair - Damaged and worn-out tissues are replaced with new cells by mitosis.
+               </para>
+               <para id="import-auto-id1416961">
+Asexual reproduction - Single-celled (unicellular) organisms and bacteria often
+reproduce asexually by mitosis. Organisms like amoeba are able to split from a
+single individual into two and therefore can reproduce without a mate and
+sexual reproduction.
+               </para>
+              </section>
+              <section id="import-auto-id1373495">
+               <title>
+                
+Chromosomes
+                </title>
+                <para id="import-auto-id1282025">
+In mitosis at the end of prophase the chromosomes appear as X-shaped threads.
+Each thread is in fact a chromatid and they are joined in the centre at a point
+called the centromere. There are two of each chromosome and the full set of
+chromosomes is often shown with the complimentary or homologous chromosomes
+paired up.
+                </para>
+                <figure id="import-auto-id1207573">
+                 <media id="import-auto-id1085700" alt="">
+                  <image mime-type="image/jpg" src="../../media/graphics4-e6b5.jpg" height="258" width="343"/>
+                 </media>
+                </figure>
+               </section>
+               <section id="import-auto-id1031376">
+                <title>
+                 
+Activity 1 - Investigating mitosis in allium root tip squash
+                 </title>
+                 <para id="import-auto-id1408295">
+                  <emphasis effect="bold">
+Introduction
+                  </emphasis>
+                 </para>
+                 <para id="import-auto-id1445436">
+Talking about what chromosomes do during mitosis could be very interesting, but
+seeing them for yourself adds an extra dimension.
+                 </para>
+                 <para id="import-auto-id1145173">
+                  <emphasis effect="bold">
+Video - Preparing Microscope Slides
+                  </emphasis>
+                 </para>
+                 <para id="import-auto-id1445438">
+                  <link url="http://www.youtube.com/watch?v=GHnndVuaync">
+                   <emphasis effect="underline">
+http://www.youtube.com/watch?v=GHnndVuaync
+                   </emphasis>
+                  </link>
+                 </para>
+                 <para id="import-auto-id1447571">
+                  <emphasis effect="bold">
+Lesson Organisation
+                  </emphasis>
+                 </para>
+                 <para id="import-auto-id1026746">
+The allium/onoin roots need to be prepared 1-10 days in advance of the lesson.
+Some practitioners report that cutting the root tips around noon makes a
+difference to the mitotic index, so you may want your technician to cut and
+‘fix’ the tips in ethanoic alcohol rather than ask your students to
+carry out this step. If you have access to a video microscope it is worth
+capturing some images as this procedure can be frustrating.
+                 </para>
+                 <para id="import-auto-id1026748">
+                  <emphasis effect="bold">
+Method
+                  </emphasis>
+                 </para>
+                 <para id="import-auto-id1216078">
+1. Pour approximately 5 ml. methanol-acetic acid 
+                  <emphasis effect="bold">
+fixative
+                  </emphasis>
+ into a small beaker. Place 2-3 mm length onion root tip into the fixative.
+Incubate at 60 C for 15 mins. 2. At the end of the fixative incubation
+period, pour off the fixative into a waste beaker. Be careful not to pour off
+your fixed onion root tip. Now add approximately 5 ml. 1 M HCl to your fixed
+onion root tip to partially 
+                  <emphasis effect="bold">
+hydrolize
+                  </emphasis>
+ the cells. Incubate at 60 C for 
+                  <emphasis effect="bold">
+exactly 10 mins.
+                  </emphasis>
+ 3. At the end of the hydrolysis incubation period, pour off the 1 M HCl
+into a waste beaker. Be careful not to pour off your fixed/hydrolyzed onion
+root tip. Now add approximately 1 ml. Feulgen stain to your fixed/hydrolyzed
+onion root tip in order to
+                  <emphasis effect="bold">
+stain
+                  </emphasis>
+ the chromosomes. Bath your onion root tip in the Feulgen stain for 20-30
+mins. to allow the Feulgen stain to penetrate the chromosomes.4. To make a
+slide of your stained onion root tip, transfer your onion root tip from the
+beaker to a microscope slide and add a small drop of 45% acetic acid. 
+                  <emphasis effect="bold">
+Do not allow the onion root tip to dry out during the subsequent steps. Add 45%
+acetic acid if you notice your specimen is drying out.
+                  </emphasis>
+5. Pulverize your onion root tip into a fine pulp on the microscope slide by
+tapping it with a glass rod. Try to produce as fine a pulp as possible to
+prevent large cell clumps which will not be useful for microscopic
+examination.6. Now place a microscope cover slip on top of your pulverized
+onion root tip. Put two layers of paper towel on top of the microscope cover
+slip and press down hard enough to squash the root but not enough to break the
+cover slip. This should result in the onion root tip cells from forming a
+monolayer which is ideal for microscopic examination.7. Using the scanning
+objective focus on the onion root tip cells and identify a cell undergoing
+mitosis by looking for pink-staining bodies (chromosomes) within the cell.8.
+Switch to the low-magnification10X objective and fine-focus.9. Switch to the
+high-magnification 40X objective and fine-focus. At this magnification you
+should be able to identify cells in several stages of mitosis. Identify a
+specific stage of mitosis and go on to step 10.10. Add a drop of oil to your
+prepared slide and switch to the oil-immersion 100X objective and fine-focus.
+                  <emphasis effect="bold">
+Repeat steps 9 and 10 for all four stages of mitosis. As part of your Lab Exit
+Quiz you will be asked to: 1) show your prepared onion root tip slide to a
+lab instructor under the microscope.2) identify several stages of mitosis on
+your prepared onion root tip slide.
+                  </emphasis>
+                 </para>
+                 <para id="import-auto-id889367">
+                  <emphasis effect="bold">
+Mitotic Index
+                  </emphasis>
+                 </para>
+                 <figure id="import-auto-id1409987">
+                  <media id="import-auto-id1409989" alt="">
+                   <image mime-type="image/jpg" src="../../media/graphics5-345c.jpg" height="45" width="414"/>
+                  </media>
+                 </figure>
+                 <para id="import-auto-id1066572">
+The duration of each stage of mitosis has been recorded and the data (see table
+below) could be used to compare the observed frequencies of the different
+stages as recorded by students.
+                 </para>
+                </section>
+                <section id="import-auto-id988001">
+                 <title>
+                  
+Activity 2 – Stages of Mitosis
+                  </title>
+                  <para id="import-auto-id1417263">
+Task – Look at Cells 1 -5. Decide which stage of mitosis each cell is in.
+For each cell describe the features that make you think it is in this stage.
+                  </para>
+                  <figure id="import-auto-id935606">
+                   <media id="import-auto-id1374402" alt="">
+                    <image mime-type="image/jpg" src="../../media/graphics6-9abd.jpg" height="672" width="449"/>
+                   </media>
+                  </figure>
+                 </section>
+                 <section id="import-auto-id1417303">
+                  <title>
+                   
+Activity 3 - Quiz on Onion Tip Mitosis (with Answers)
+                   </title>
+                   <para id="import-auto-id1253490">
+1. 1. Why do we study the root tip to find mitosis instead of any other part of
+the onion plant?
+                    <emphasis effect="underline">
+We study the root tip because it is growing therefore cells are dividing
+rapidly. This makes it the best part of the plant to observe various stages of
+mitosis.
+                    </emphasis>
+                   </para>
+                   <para id="import-auto-id1206661">
+2. Based on you data what can you infer about the relative length of time an
+onion root-tip cell spends in each stage of the cell cycle?
+                    <emphasis effect="underline">
+Most cells are in interphase because most time is spent in this phase.
+                    </emphasis>
+                   </para>
+                   <para id="import-auto-id1443937">
+3. Based on your understanding of the structure of the chromosome, why might it
+take longer to complete prophase than the other phases of nuclear division?
+                    <emphasis effect="underline">
+Prophase is the longest phase of mitosis because the chromosomes have to coil up
+into organized bodies. It takes a long time for the chromatin to coil or
+condense into chromosomes.
+                    </emphasis>
+                   </para>
+                   <para id="import-auto-id1133666">
+4. How do you account for the differences between the slides made by different
+groups?
+                    <emphasis effect="underline">
+Possible answers: Not all lab groups had the same slide so there can be
+differences among the growth rates of the plants that were used to prepare the
+slide. The groups may have been looking at different areas of the root. Some
+groups may not have followed the instructions as carefully as others.
+                    </emphasis>
+                   </para>
+                   <para id="import-auto-id1009530">
+5. If you examined cells in the Zone of Differentiation (Zone of Maturation)
+would you expect to get similar results?
+                    <emphasis effect="underline">
+No
+                    </emphasis>
+Why or why not?
+                    <emphasis effect="underline">
+These cells are starting to specialize into mature tissues. They are no longer
+meristematic cells.
+                    </emphasis>
+                   </para>
+                   <para id="import-auto-id1391998">
+6. Why did we use the pie chart to graph the data?
+                    <emphasis effect="underline">
+The pie chart was used because the data represented the parts of a whole and it
+is relatively easy to show proportions of the whole event.
+                    </emphasis>
+                   </para>
+                  </section>
+                  <section id="import-auto-id1327470">
+                   <title>
+                    
+Assignment 1 - Animation of Mitosis and Multiple Choice Questions on Mitosis
+                    </title>
+                    <para id="import-auto-id1031413">
+                     <link url="http://bealbio.wikispaces.com/Genetics">
+                      <emphasis effect="underline">
+http://bealbio.wikispaces.com/Genetics
+                      </emphasis>
+                     </link>
+                    </para>
+                    <para id="import-auto-id976400">
+Description: Gives a detailed description of the steps involved in mitosis with
+animated videos and narrative voice-over. Short multiple choice quiz provided
+containing the following multiple choice questions:
+                    </para>
+                    <table id="import-auto-id949759" summary="">
+                     <tgroup cols="5">
+                      <colspec colnum="1" colname="c1"/>
+                      <colspec colnum="2" colname="c2"/>
+                      <colspec colnum="3" colname="c3"/>
+                      <colspec colnum="4" colname="c4"/>
+                      <colspec colnum="5" colname="c5"/>
+                      <tbody>
+                       <row>
+                        <entry namest="c1" nameend="c3">
+                         <para id="import-auto-id1386932">
+                          <emphasis effect="bold">
+1
+                          </emphasis>
+                         </para>
+                        </entry>
+                        <entry>
+                         </entry>
+                         <entry>
+                          </entry>
+                          <entry>
+Which of the following events do NOT occur in prophase of mitosis?
+                          </entry>
+                          <entry/>
+                         </row>
+                         <row>
+                          <entry>
+                           <figure id="import-auto-id1443025">
+                            <media id="import-auto-id1145038" alt="">
+                             <image mime-type="image/png" src="../../media/graphics7-a196.png" height="2" width="8"/>
+                            </media>
+                           </figure>
+                          </entry>
+                          <entry>
+                           <emphasis effect="bold">
+A)
+                           </emphasis>
+                           <figure id="import-auto-id689036">
+                            <media id="import-auto-id689038" alt="">
+                             <image mime-type="image/png" src="../../media/graphics8-a196.png" height="2" width="10"/>
+                            </media>
+                           </figure>
+                          </entry>
+                          <entry namest="c3" nameend="c5">
+DNA condenses to form chromosomes
+                          </entry>
+                          <entry>
+                           </entry>
+                           <entry>
+                            </entry>
+                           </row>
+                           <row>
+                            <entry>
+                             <figure id="import-auto-id617155">
+                              <media id="import-auto-id617156" alt="">
+                               <image mime-type="image/png" src="../../media/graphics9-a196.png" height="2" width="8"/>
+                              </media>
+                             </figure>
+                            </entry>
+                            <entry>
+                             <emphasis effect="bold">
+B)
+                             </emphasis>
+                             <figure id="import-auto-id1347471">
+                              <media id="import-auto-id1347472" alt="">
+                               <image mime-type="image/png" src="../../media/graphics10-a196.png" height="2" width="10"/>
+                              </media>
+                             </figure>
+                            </entry>
+                            <entry namest="c3" nameend="c5">
+nuclear membrane breaks down
+                            </entry>
+                            <entry>
+                             </entry>
+                             <entry>
+                              </entry>
+                             </row>
+                             <row>
+                              <entry>
+                               <figure id="import-auto-id1387699">
+                                <media id="import-auto-id1387700" alt="">
+                                 <image mime-type="image/png" src="../../media/graphics11-a196.png" height="2" width="8"/>
+                                </media>
+                               </figure>
+                              </entry>
+                              <entry>
+                               <emphasis effect="bold">
+C)
+                               </emphasis>
+                               <figure id="import-auto-id1216263">
+                                <media id="import-auto-id1216264" alt="">
+                                 <image mime-type="image/png" src="../../media/graphics12-a196.png" height="2" width="10"/>
+                                </media>
+                               </figure>
+                              </entry>
+                              <entry namest="c3" nameend="c5">
+nucleolus breaks down
+                              </entry>
+                              <entry>
+                               </entry>
+                               <entry>
+                                </entry>
+                               </row>
+                               <row>
+                                <entry>
+                                 <figure id="import-auto-id960271">
+                                  <media id="import-auto-id960272" alt="">
+                                   <image mime-type="image/png" src="../../media/graphics13-a196.png" height="2" width="8"/>
+                                  </media>
+                                 </figure>
+                                </entry>
+                                <entry>
+                                 <emphasis effect="bold">
+D)
+                                 </emphasis>
+                                 <figure id="import-auto-id1397133">
+                                  <media id="import-auto-id887990" alt="">
+                                   <image mime-type="image/png" src="../../media/graphics14-a196.png" height="2" width="10"/>
+                                  </media>
+                                 </figure>
+                                </entry>
+                                <entry namest="c3" nameend="c5">
+chromosomes are replicated
+                                </entry>
+                                <entry>
+                                 </entry>
+                                 <entry>
+                                  </entry>
+                                 </row>
+                                 <row>
+                                  <entry>
+                                   <figure id="import-auto-id1417741">
+                                    <media id="import-auto-id1417742" alt="">
+                                     <image mime-type="image/png" src="../../media/graphics15-a196.png" height="2" width="8"/>
+                                    </media>
+                                   </figure>
+                                  </entry>
+                                  <entry>
+                                   <emphasis effect="bold">
+E)
+                                   </emphasis>
+                                   <figure id="import-auto-id575579">
+                                    <media id="import-auto-id575580" alt="">
+                                     <image mime-type="image/png" src="../../media/graphics16-a196.png" height="2" width="10"/>
+                                    </media>
+                                   </figure>
+                                  </entry>
+                                  <entry namest="c3" nameend="c5">
+mitotic spindle begins to form
+                                  </entry>
+                                  <entry>
+                                   </entry>
+                                   <entry>
+                                    </entry>
+                                   </row>
+                                   <row>
+                                    <entry namest="c1" nameend="c3"/>
+                                    <entry>
+                                     </entry>
+                                     <entry>
+                                      </entry>
+                                      <entry namest="c4" nameend="c5"/>
+                                      <entry>
+                                       </entry>
+                                      </row>
+                                      <row>
+                                       <entry namest="c1" nameend="c3">
+                                        <para id="import-auto-id523743">
+                                         <emphasis effect="bold">
+2
+                                         </emphasis>
+                                        </para>
+                                       </entry>
+                                       <entry>
+                                        </entry>
+                                        <entry>
+                                         </entry>
+                                         <entry>
+The mitotic spindle fibers attach to chromosomes via special structures termed
+                                         </entry>
+                                         <entry/>
+                                        </row>
+                                        <row>
+                                         <entry>
+                                          <figure id="import-auto-id1216246">
+                                           <media id="import-auto-id1216248" alt="">
+                                            <image mime-type="image/png" src="../../media/graphics17-a196.png" height="2" width="8"/>
+                                           </media>
+                                          </figure>
+                                         </entry>
+                                         <entry>
+                                          <emphasis effect="bold">
+A)
+                                          </emphasis>
+                                          <figure id="import-auto-id1199924">
+                                           <media id="import-auto-id1199926" alt="">
+                                            <image mime-type="image/png" src="../../media/graphics18-a196.png" height="2" width="10"/>
+                                           </media>
+                                          </figure>
+                                         </entry>
+                                         <entry namest="c3" nameend="c5">
+centrioles.
+                                         </entry>
+                                         <entry>
+                                          </entry>
+                                          <entry>
+                                           </entry>
+                                          </row>
+                                          <row>
+                                           <entry>
+                                            <figure id="import-auto-id577982">
+                                             <media id="import-auto-id951910" alt="">
+                                              <image mime-type="image/png" src="../../media/graphics19-a196.png" height="2" width="8"/>
+                                             </media>
+                                            </figure>
+                                           </entry>
+                                           <entry>
+                                            <emphasis effect="bold">
+B)
+                                            </emphasis>
+                                            <figure id="import-auto-id1251333">
+                                             <media id="import-auto-id1371463" alt="">
+                                              <image mime-type="image/png" src="../../media/graphics20.png" height="2" width="10"/>
+                                             </media>
+                                            </figure>
+                                           </entry>
+                                           <entry namest="c3" nameend="c5">
+asters.
+                                           </entry>
+                                           <entry>
+                                            </entry>
+                                            <entry>
+                                             </entry>
+                                            </row>
+                                            <row>
+                                             <entry>
+                                              <figure id="import-auto-id1291491">
+                                               <media id="import-auto-id1291493" alt="">
+                                                <image mime-type="image/png" src="../../media/graphics21.png" height="2" width="8"/>
+                                               </media>
+                                              </figure>
+                                             </entry>
+                                             <entry>
+                                              <emphasis effect="bold">
+C)
+                                              </emphasis>
+                                              <figure id="import-auto-id1216026">
+                                               <media id="import-auto-id1216027" alt="">
+                                                <image mime-type="image/png" src="../../media/graphics22.png" height="2" width="10"/>
+                                               </media>
+                                              </figure>
+                                             </entry>
+                                             <entry namest="c3" nameend="c5">
+centromeres
+                                             </entry>
+                                             <entry>
+                                              </entry>
+                                              <entry>
+                                               </entry>
+                                              </row>
+                                              <row>
+                                               <entry>
+                                                <figure id="import-auto-id789453">
+                                                 <media id="import-auto-id1066896" alt="">
+                                                  <image mime-type="image/png" src="../../media/graphics23.png" height="2" width="8"/>
+                                                 </media>
+                                                </figure>
+                                               </entry>
+                                               <entry>
+                                                <emphasis effect="bold">
+D)
+                                                </emphasis>
+                                                <figure id="import-auto-id891595">
+                                                 <media id="import-auto-id960236" alt="">
+                                                  <image mime-type="image/png" src="../../media/graphics24.png" height="2" width="10"/>
+                                                 </media>
+                                                </figure>
+                                               </entry>
+                                               <entry namest="c3" nameend="c5">
+centrosomes.
+                                               </entry>
+                                               <entry>
+                                                </entry>
+                                                <entry>
+                                                 </entry>
+                                                </row>
+                                                <row>
+                                                 <entry>
+                                                  <figure id="import-auto-id1452506">
+                                                   <media id="import-auto-id1452508" alt="">
+                                                    <image mime-type="image/png" src="../../media/graphics25.png" height="2" width="8"/>
+                                                   </media>
+                                                  </figure>
+                                                 </entry>
+                                                 <entry>
+                                                  <emphasis effect="bold">
+E)
+                                                  </emphasis>
+                                                  <figure id="import-auto-id994150">
+                                                   <media id="import-auto-id994151" alt="">
+                                                    <image mime-type="image/png" src="../../media/graphics26.png" height="2" width="10"/>
+                                                   </media>
+                                                  </figure>
+                                                 </entry>
+                                                 <entry namest="c3" nameend="c5">
+keratins.
+                                                 </entry>
+                                                 <entry>
+                                                  </entry>
+                                                  <entry>
+                                                   </entry>
+                                                  </row>
+                                                  <row>
+                                                   <entry namest="c1" nameend="c3"/>
+                                                   <entry>
+                                                    </entry>
+                                                    <entry>
+                                                     </entry>
+                                                     <entry namest="c4" nameend="c5"/>
+                                                     <entry>
+                                                      </entry>
+                                                     </row>
+                                                     <row>
+                                                      <entry namest="c1" nameend="c3">
+                                                       <para id="import-auto-id775071">
+                                                        <emphasis effect="bold">
+3
+                                                        </emphasis>
+                                                       </para>
+                                                      </entry>
+                                                      <entry>
+                                                       </entry>
+                                                       <entry>
+                                                        </entry>
+                                                        <entry>
+Which of the following statements about spindle fibres during anaphase is TRUE?
+                                                        </entry>
+                                                        <entry/>
+                                                       </row>
+                                                       <row>
+                                                        <entry>
+                                                         <figure id="import-auto-id579063">
+                                                          <media id="import-auto-id579064" alt="">
+                                                           <image mime-type="image/png" src="../../media/graphics27.png" height="2" width="8"/>
+                                                          </media>
+                                                         </figure>
+                                                        </entry>
+                                                        <entry>
+                                                         <emphasis effect="bold">
+A)
+                                                         </emphasis>
+                                                         <figure id="import-auto-id719641">
+                                                          <media id="import-auto-id719642" alt="">
+                                                           <image mime-type="image/png" src="../../media/graphics28.png" height="2" width="10"/>
+                                                          </media>
+                                                         </figure>
+                                                        </entry>
+                                                        <entry namest="c3" nameend="c5">
+those attached to chromosomes elongate, while those that are unattached shorten
+                                                        </entry>
+                                                        <entry>
+                                                         </entry>
+                                                         <entry>
+                                                          </entry>
+                                                         </row>
+                                                         <row>
+                                                          <entry>
+                                                           <figure id="import-auto-id1133708">
+                                                            <media id="import-auto-id1133709" alt="">
+                                                             <image mime-type="image/png" src="../../media/graphics29.png" height="2" width="8"/>
+                                                            </media>
+                                                           </figure>
+                                                          </entry>
+                                                          <entry>
+                                                           <emphasis effect="bold">
+B)
+                                                           </emphasis>
+                                                           <figure id="import-auto-id889424">
+                                                            <media id="import-auto-id889425" alt="">
+                                                             <image mime-type="image/png" src="../../media/graphics30.png" height="2" width="10"/>
+                                                            </media>
+                                                           </figure>
+                                                          </entry>
+                                                          <entry namest="c3" nameend="c5">
+those attached to chromosomes shorten, while those that are unattached elongate
+                                                          </entry>
+                                                          <entry>
+                                                           </entry>
+                                                           <entry>
+                                                            </entry>
+                                                           </row>
+                                                           <row>
+                                                            <entry>
+                                                             <figure id="import-auto-id1405640">
+                                                              <media id="import-auto-id1405641" alt="">
+                                                               <image mime-type="image/png" src="../../media/graphics31.png" height="2" width="8"/>
+                                                              </media>
+                                                             </figure>
+                                                            </entry>
+                                                            <entry>
+                                                             <emphasis effect="bold">
+C)
+                                                             </emphasis>
+                                                             <figure id="import-auto-id1380725">
+                                                              <media id="import-auto-id1447850" alt="">
+                                                               <image mime-type="image/png" src="../../media/graphics32.png" height="2" width="10"/>
+                                                              </media>
+                                                             </figure>
+                                                            </entry>
+                                                            <entry namest="c3" nameend="c5">
+both attached and unattached microtubules shorten
+                                                            </entry>
+                                                            <entry>
+                                                             </entry>
+                                                             <entry>
+                                                              </entry>
+                                                             </row>
+                                                             <row>
+                                                              <entry>
+                                                               <figure id="import-auto-id1408316">
+                                                                <media id="import-auto-id1408318" alt="">
+                                                                 <image mime-type="image/png" src="../../media/graphics33.png" height="2" width="8"/>
+                                                                </media>
+                                                               </figure>
+                                                              </entry>
+                                                              <entry>
+                                                               <emphasis effect="bold">
+D)
+                                                               </emphasis>
+                                                               <figure id="import-auto-id1375302">
+                                                                <media id="import-auto-id1380730" alt="">
+                                                                 <image mime-type="image/png" src="../../media/graphics34.png" height="2" width="10"/>
+                                                                </media>
+                                                               </figure>
+                                                              </entry>
+                                                              <entry namest="c3" nameend="c5">
+both attached and unattached microtubules elongate
+                                                              </entry>
+                                                              <entry>
+                                                               </entry>
+                                                               <entry>
+                                                                </entry>
+                                                               </row>
+                                                               <row>
+                                                                <entry>
+                                                                 <figure id="import-auto-id1417772">
+                                                                  <media id="import-auto-id1417774" alt="">
+                                                                   <image mime-type="image/png" src="../../media/graphics35.png" height="2" width="8"/>
+                                                                  </media>
+                                                                 </figure>
+                                                                </entry>
+                                                                <entry>
+                                                                 <emphasis effect="bold">
+E)
+                                                                 </emphasis>
+                                                                 <figure id="import-auto-id1376240">
+                                                                  <media id="import-auto-id1376242" alt="">
+                                                                   <image mime-type="image/png" src="../../media/graphics36.png" height="2" width="10"/>
+                                                                  </media>
+                                                                 </figure>
+                                                                </entry>
+                                                                <entry namest="c3" nameend="c5">
+both attached and unattached microtubules elongate at first and then shorten
+                                                                </entry>
+                                                                <entry>
+                                                                 </entry>
+                                                                 <entry>
+                                                                  </entry>
+                                                                 </row>
+                                                                 <row>
+                                                                  <entry namest="c1" nameend="c3"/>
+                                                                  <entry>
+                                                                   </entry>
+                                                                   <entry>
+                                                                    </entry>
+                                                                    <entry namest="c4" nameend="c5"/>
+                                                                    <entry>
+                                                                     </entry>
+                                                                    </row>
+                                                                    <row>
+                                                                     <entry namest="c1" nameend="c3">
+                                                                      <para id="import-auto-id1408300">
+                                                                       <emphasis effect="bold">
+4
+                                                                       </emphasis>
+                                                                      </para>
+                                                                     </entry>
+                                                                     <entry>
+                                                                      </entry>
+                                                                      <entry>
+                                                                       </entry>
+                                                                       <entry>
+Centromeres divide during metaphase.
+                                                                       </entry>
+                                                                       <entry/>
+                                                                      </row>
+                                                                      <row>
+                                                                       <entry>
+                                                                        <figure id="import-auto-id1408272">
+                                                                         <media id="import-auto-id1408273" alt="">
+                                                                          <image mime-type="image/png" src="../../media/graphics37.png" height="2" width="8"/>
+                                                                         </media>
+                                                                        </figure>
+                                                                       </entry>
+                                                                       <entry>
+                                                                        <emphasis effect="bold">
+A)
+                                                                        </emphasis>
+                                                                        <figure id="import-auto-id1417618">
+                                                                         <media id="import-auto-id1417619" alt="">
+                                                                          <image mime-type="image/png" src="../../media/graphics38.png" height="2" width="10"/>
+                                                                         </media>
+                                                                        </figure>
+                                                                       </entry>
+                                                                       <entry namest="c3" nameend="c5">
+True
+                                                                       </entry>
+                                                                       <entry>
+                                                                        </entry>
+                                                                        <entry>
+                                                                         </entry>
+                                                                        </row>
+                                                                        <row>
+                                                                         <entry>
+                                                                          <figure id="import-auto-id1376149">
+                                                                           <media id="import-auto-id1376150" alt="">
+                                                                            <image mime-type="image/png" src="../../media/graphics39.png" height="2" width="8"/>
+                                                                           </media>
+                                                                          </figure>
+                                                                         </entry>
+                                                                         <entry>
+                                                                          <emphasis effect="bold">
+B)
+                                                                          </emphasis>
+                                                                          <figure id="import-auto-id1447875">
+                                                                           <media id="import-auto-id1447876" alt="">
+                                                                            <image mime-type="image/png" src="../../media/graphics40.png" height="2" width="10"/>
+                                                                           </media>
+                                                                          </figure>
+                                                                         </entry>
+                                                                         <entry namest="c3" nameend="c5">
+False
+                                                                         </entry>
+                                                                         <entry>
+                                                                          </entry>
+                                                                          <entry>
+                                                                           </entry>
+                                                                          </row>
+                                                                          <row>
+                                                                           <entry namest="c1" nameend="c3"/>
+                                                                           <entry>
+                                                                            </entry>
+                                                                            <entry>
+                                                                             </entry>
+                                                                             <entry namest="c4" nameend="c5"/>
+                                                                             <entry>
+                                                                              </entry>
+                                                                             </row>
+                                                                             <row>
+                                                                              <entry namest="c1" nameend="c3">
+                                                                               <para id="import-auto-id1385039">
+                                                                                <emphasis effect="bold">
+5
+                                                                                </emphasis>
+                                                                               </para>
+                                                                              </entry>
+                                                                              <entry>
+                                                                               </entry>
+                                                                               <entry>
+                                                                                </entry>
+                                                                                <entry>
+Cytokinesis in plant cells occurs by means of a cleavage furrow.
+                                                                                </entry>
+                                                                                <entry/>
+                                                                               </row>
+                                                                               <row>
+                                                                                <entry>
+                                                                                 <figure id="import-auto-id1385057">
+                                                                                  <media id="import-auto-id1385059" alt="">
+                                                                                   <image mime-type="image/png" src="../../media/graphics41.png" height="2" width="8"/>
+                                                                                  </media>
+                                                                                 </figure>
+                                                                                </entry>
+                                                                                <entry>
+                                                                                 <emphasis effect="bold">
+A)
+                                                                                 </emphasis>
+                                                                                 <figure id="import-auto-id1373531">
+                                                                                  <media id="import-auto-id1373533" alt="">
+                                                                                   <image mime-type="image/png" src="../../media/graphics42.png" height="2" width="10"/>
+                                                                                  </media>
+                                                                                 </figure>
+                                                                                </entry>
+                                                                                <entry namest="c3" nameend="c5">
+True
+                                                                                </entry>
+                                                                                <entry>
+                                                                                 </entry>
+                                                                                 <entry>
+                                                                                  </entry>
+                                                                                 </row>
+                                                                                 <row>
+                                                                                  <entry>
+                                                                                   <figure id="import-auto-id1342768">
+                                                                                    <media id="import-auto-id1342769" alt="">
+                                                                                     <image mime-type="image/png" src="../../media/graphics43.png" height="2" width="8"/>
+                                                                                    </media>
+                                                                                   </figure>
+                                                                                  </entry>
+                                                                                  <entry>
+                                                                                   <emphasis effect="bold">
+B)
+                                                                                   </emphasis>
+                                                                                   <figure id="import-auto-id1417284">
+                                                                                    <media id="import-auto-id1417285" alt="">
+                                                                                     <image mime-type="image/png" src="../../media/graphics44.png" height="2" width="10"/>
+                                                                                    </media>
+                                                                                   </figure>
+                                                                                  </entry>
+                                                                                  <entry namest="c3" nameend="c5">
+False
+                                                                                  </entry>
+                                                                                  <entry>
+                                                                                   </entry>
+                                                                                   <entry>
+                                                                                    </entry>
+                                                                                   </row>
+                                                                                  </tbody>
+                                                                                 </tgroup>
+                                                                                </table>
+                                                                               </section>
+                                                                               <section id="import-auto-id1417761">
+                                                                                <title>
+                                                                                 
+Assignment 2 –Observing Mitosis in an Onion Root Tip Activity
+                                                                                 </title>
+                                                                                 <para id="import-auto-id1031139">
+                                                                                  <emphasis effect="bold">
+Mitosis Slides
+                                                                                  </emphasis>
+                                                                                 </para>
+                                                                                 <para id="import-auto-id1413385">
+                                                                                  <emphasis effect="bold">
+Identify the stage of mitosis for each of the onion root-tip slides below (most
+stages are represented more than once).
+                                                                                  </emphasis>
+                                                                                 </para>
+                                                                                 <table id="import-auto-id1405603" summary="">
+                                                                                  <tgroup cols="5">
+                                                                                   <colspec colnum="1" colname="c1"/>
+                                                                                   <colspec colnum="2" colname="c2"/>
+                                                                                   <colspec colnum="3" colname="c3"/>
+                                                                                   <colspec colnum="4" colname="c4"/>
+                                                                                   <colspec colnum="5" colname="c5"/>
+                                                                                   <tbody>
+                                                                                    <row>
+                                                                                     <entry/>
+                                                                                     <entry>
+                                                                                      <para id="import-auto-id1413615">
+                                                                                       <emphasis effect="bold">
+Identify stage
+                                                                                       </emphasis>
+                                                                                      </para>
+                                                                                     </entry>
+                                                                                     <entry/>
+                                                                                     <entry/>
+                                                                                     <entry>
+                                                                                      <para id="import-auto-id1413624">
+                                                                                       <emphasis effect="bold">
+Identify stage
+                                                                                       </emphasis>
+                                                                                      </para>
+                                                                                     </entry>
+                                                                                    </row>
+                                                                                    <row>
+                                                                                     <entry>
+                                                                                      <figure id="import-auto-id1413632">
+                                                                                       <media id="import-auto-id1413633" alt="">
+                                                                                        <image mime-type="image/jpg" src="../../media/graphics45.jpg" height="150" width="150"/>
+                                                                                       </media>
+                                                                                      </figure>
+                                                                                     </entry>
+                                                                                     <entry>
+__i)_________________________
+                                                                                     </entry>
+                                                                                     <entry/>
+                                                                                     <entry>
+                                                                                      <figure id="import-auto-id1380754">
+                                                                                       <media id="import-auto-id1380755" alt="">
+                                                                                        <image mime-type="image/jpg" src="../../media/graphics46.jpg" height="150" width="150"/>
+                                                                                       </media>
+                                                                                      </figure>
+                                                                                     </entry>
+                                                                                     <entry>
+__ii_________________________
+                                                                                     </entry>
+                                                                                    </row>
+                                                                                    <row>
+                                                                                     <entry>
+                                                                                      <figure id="import-auto-id1380773">
+                                                                                       <media id="import-auto-id1380774" alt="">
+                                                                                        <image mime-type="image/jpg" src="../../media/graphics47.jpg" height="150" width="150"/>
+                                                                                       </media>
+                                                                                      </figure>
+                                                                                     </entry>
+                                                                                     <entry>
+______iii_____________________
+                                                                                     </entry>
+                                                                                     <entry/>
+                                                                                     <entry>
+                                                                                      <figure id="import-auto-id1456169">
+                                                                                       <media id="import-auto-id1456170" alt="">
+                                                                                        <image mime-type="image/jpg" src="../../media/graphics48.jpg" height="150" width="150"/>
+                                                                                       </media>
+                                                                                      </figure>
+                                                                                     </entry>
+                                                                                     <entry>
+__________________iv_________
+                                                                                     </entry>
+                                                                                    </row>
+                                                                                    <row>
+                                                                                     <entry>
+                                                                                      <figure id="import-auto-id1456188">
+                                                                                       <media id="import-auto-id1456189" alt="">
+                                                                                        <image mime-type="image/jpg" src="../../media/graphics49.jpg" height="150" width="150"/>
+                                                                                       </media>
+                                                                                      </figure>
+                                                                                     </entry>
+                                                                                     <entry>
+______________v_____________
+                                                                                     </entry>
+                                                                                     <entry/>
+                                                                                     <entry>
+                                                                                      <figure id="import-auto-id1376302">
+                                                                                       <media id="import-auto-id1376303" alt="">
+                                                                                        <image mime-type="image/jpg" src="../../media/graphics50.jpg" height="150" width="150"/>
+                                                                                       </media>
+                                                                                      </figure>
+                                                                                     </entry>
+                                                                                     <entry>
+____vi_______________________
+                                                                                     </entry>
+                                                                                    </row>
+                                                                                    <row>
+                                                                                     <entry/>
+                                                                                     <entry/>
+                                                                                     <entry/>
+                                                                                     <entry/>
+                                                                                     <entry/>
+                                                                                    </row>
+                                                                                   </tbody>
+                                                                                  </tgroup>
+                                                                                 </table>
+                                                                                 <para id="import-auto-id1376325">
+                                                                                  <emphasis effect="bold">
+Practice locating each of the stages of mitosis in the following slides of the
+onion root tip. Each picture contains at least one cell at each stage of
+mitosis (and some stages are represented by multiple cells).
+                                                                                  </emphasis>
+                                                                                 </para>
+                                                                                 <para id="import-auto-id1376332">
+ 
+                                                                                 </para>
+                                                                                 <figure id="import-auto-id1455977">
+                                                                                  <media id="import-auto-id1455978" alt="">
+                                                                                   <image mime-type="image/jpg" src="../../media/graphics51.jpg" height="440" width="601"/>
+                                                                                  </media>
+                                                                                 </figure>
+                                                                                 <para id="import-auto-id1455991">
+(vii)
+                                                                                 </para>
+                                                                                 <para id="import-auto-id1455993">
+                                                                                  <emphasis effect="bold">
+Answers
+                                                                                  </emphasis>
+                                                                                 </para>
+                                                                                 <list id="import-auto-id1455998" list-type="enumerated" number-style="lower-roman">
+                                                                                  <item>
+                                                                                   <para id="import-auto-id1456005">
+                                                                                    <emphasis effect="bold">
+Prophase; ii) Anaphase iii) Metaphase iv) Interphase v) Anaphase vi) Metaphase
+                                                                                    </emphasis>
+                                                                                   </para>
+                                                                                  </item>
+                                                                                 </list>
+                                                                                 <para id="import-auto-id1456011">
+                                                                                  <emphasis effect="bold">
+Answers to (vii)
+                                                                                  </emphasis>
+                                                                                 </para>
+                                                                                 <para id="import-auto-id1456017">
+                                                                                  <emphasis effect="bold">
+The numbered arrows indicate cells at various stages of mitosis (most of the
+rest of the cells are in interphase). The key to the stages is to the right of
+each figure. You will not be asked to distinguish early from late; this is
+provided to help clarify the more ambiguous stages.
+                                                                                  </emphasis>
+                                                                                 </para>
+                                                                                 <table id="import-auto-id1421575" summary="">
+                                                                                  <tgroup cols="2">
+                                                                                   <colspec colnum="1" colname="c1"/>
+                                                                                   <colspec colnum="2" colname="c2"/>
+                                                                                   <tbody>
+                                                                                    <row>
+                                                                                     <entry>
+                                                                                      <figure id="import-auto-id1421597">
+                                                                                       <media id="import-auto-id1421599" alt="">
+                                                                                        <image mime-type="image/jpg" src="../../media/graphics52.jpg" height="440" width="600"/>
+                                                                                       </media>
+                                                                                      </figure>
+                                                                                     </entry>
+                                                                                     <entry>
+                                                                                      <para id="import-auto-id1421614">
+                                                                                       <emphasis effect="bold">
+Key:
+                                                                                       </emphasis>
+                                                                                      </para>
+                                                                                      <list id="import-auto-id1421619" list-type="enumerated" number-style="arabic">
+                                                                                       <item>
+                                                                                        <para id="import-auto-id1413393">
+                                                                                         <emphasis effect="italics">
+late Prophase/early Metaphase
+                                                                                         </emphasis>
+                                                                                        </para>
+                                                                                       </item>
+                                                                                       <item>
+                                                                                        <para id="import-auto-id1413400">
+                                                                                         <emphasis effect="italics">
+Metaphase
+                                                                                         </emphasis>
+                                                                                        </para>
+                                                                                       </item>
+                                                                                       <item>
+                                                                                        <para id="import-auto-id1413406">
+                                                                                         <emphasis effect="italics">
+Telophase
+                                                                                         </emphasis>
+                                                                                        </para>
+                                                                                       </item>
+                                                                                       <item>
+                                                                                        <para id="import-auto-id1413413">
+                                                                                         <emphasis effect="italics">
+early Telophase
+                                                                                         </emphasis>
+                                                                                        </para>
+                                                                                       </item>
+                                                                                       <item>
+                                                                                        <para id="import-auto-id1413420">
+                                                                                         <emphasis effect="italics">
+early Telophase
+                                                                                         </emphasis>
+                                                                                        </para>
+                                                                                       </item>
+                                                                                       <item>
+                                                                                        <para id="import-auto-id1413427">
+                                                                                         <emphasis effect="italics">
+Metaphase
+                                                                                         </emphasis>
+                                                                                        </para>
+                                                                                       </item>
+                                                                                       <item>
+                                                                                        <para id="import-auto-id1413433">
+                                                                                         <emphasis effect="italics">
+Prophase
+                                                                                         </emphasis>
+                                                                                        </para>
+                                                                                       </item>
+                                                                                       <item>
+                                                                                        <para id="import-auto-id1413440">
+                                                                                         <emphasis effect="italics">
+Anaphase
+                                                                                         </emphasis>
+                                                                                        </para>
+                                                                                       </item>
+                                                                                       <item>
+                                                                                        <para id="import-auto-id1413447">
+                                                                                         <emphasis effect="italics">
+late Anaphase
+                                                                                         </emphasis>
+                                                                                        </para>
+                                                                                       </item>
+                                                                                      </list>
+                                                                                     </entry>
+                                                                                    </row>
+                                                                                   </tbody>
+                                                                                  </tgroup>
+                                                                                 </table>
+                                                                                </section>
+                                                                               </content>
+                                                                              </document>
